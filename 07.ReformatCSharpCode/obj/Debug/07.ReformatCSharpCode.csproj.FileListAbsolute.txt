@@ -1,0 +1,5 @@
+F:\Develop\SoftUniHomeWork\Intro-Programming-Homework\07.ReformatCSharpCode\bin\Debug\07.ReformatCSharpCode.exe.config
+F:\Develop\SoftUniHomeWork\Intro-Programming-Homework\07.ReformatCSharpCode\bin\Debug\07.ReformatCSharpCode.exe
+F:\Develop\SoftUniHomeWork\Intro-Programming-Homework\07.ReformatCSharpCode\bin\Debug\07.ReformatCSharpCode.pdb
+F:\Develop\SoftUniHomeWork\Intro-Programming-Homework\07.ReformatCSharpCode\obj\Debug\07.ReformatCSharpCode.exe
+F:\Develop\SoftUniHomeWork\Intro-Programming-Homework\07.ReformatCSharpCode\obj\Debug\07.ReformatCSharpCode.pdb
